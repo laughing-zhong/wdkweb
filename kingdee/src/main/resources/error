@@ -1,0 +1,143 @@
+{
+    "Model": {
+        "FRemarks": "",
+        "FDiscountAmount": "0.00",
+        "FTEL": "18964098151",
+        "FGift": "",
+        "FVoucherAmount": "0",
+        "FAddress": "鲜店爱博四村蔬果超市自提点天山西路4358弄1号103室蔬果超市",
+        "FBillNo": "154900211924_test_2",
+        "FTotalQty": "4",
+        "FCustId": {
+            "FNUMBER": "100091"
+        },
+        "FSalerId": {
+            "FNUMBER": "46"
+        },
+        "FBusinessType": {
+            "FNumber": "NORMAL"
+        },
+        "FSVTime": "2015-12-11 10:30:00",
+        "FVoucherID": "",
+        "FSaleOrgId": {
+            "FNUMBER": "100"
+        },
+        "SAL_SaleOrder__FSaleOrderFinance": {
+            "FRecConditionId": {
+                "FNUMBER": 2
+            },
+            "FSettleCurrId": {
+                "FNUMBER": "PRE001"
+            },
+            "FExchangeRate": 1,
+            "FExchangeTypeId": {
+                "FNUMBER": "HLTX01_SYS"
+            }
+        },
+        "FDate": "2015-12-10 16:24:35",
+        "FBillTypeID": {
+            "FNumber": "XSDD01_SYS"
+        },
+        "FContactor": "张明珠",
+        "FBillAllAmount": "10.70",
+        "FHeadDeliveryWay": {
+            "FNUMBER": "1"
+        },
+        "SAL_SaleOrder__FSaleOrderEntry": [
+            {
+                "FBaseUnitId": {
+                    "FNUMBER": "001"
+                },
+                "FQty": "1",
+                "FSBaseQty": "1",
+                "FAllAmount": "1.50",
+                "FMaterialId": {
+                    "FNUMBER": "1011433"
+                },
+                "FPrice": "1.50",
+                "FTaxRate": "0",
+                "FTaxAmount": "0",
+                "FSettleOrgIds": {
+                    "FNUMBER": "100"
+                },
+                "FAmount": "1.50",
+                "FUnitID": {
+                    "FNUMBER": "001"
+                },
+                "FTaxPrice": "1.50"
+            },
+            {
+                "FBaseUnitId": {
+                    "FNUMBER": "001"
+                },
+                "FQty": "1",
+                "FSBaseQty": "1",
+                "FAllAmount": "3.90",
+                "FMaterialId": {
+                    "FNUMBER": "1011110"
+                },
+                "FPrice": "3.90",
+                "FTaxRate": "0",
+                "FTaxAmount": "0",
+                "FSettleOrgIds": {
+                    "FNUMBER": "100"
+                },
+                "FAmount": "3.90",
+                "FUnitID": {
+                    "FNUMBER": "001"
+                },
+                "FTaxPrice": "3.90"
+            },
+            {
+                "FBaseUnitId": {
+                    "FNUMBER": "001"
+                },
+                "FQty": "1",
+                "FSBaseQty": "1",
+                "FAllAmount": "3.10",
+                "FMaterialId": {
+                    "FNUMBER": "1010044"
+                },
+                "FPrice": "3.10",
+                "FTaxRate": "0",
+                "FTaxAmount": "0",
+                "FSettleOrgIds": {
+                    "FNUMBER": "100"
+                },
+                "FAmount": "3.10",
+                "FUnitID": {
+                    "FNUMBER": "001"
+                },
+                "FTaxPrice": "3.10"
+            },
+            {
+                "FBaseUnitId": {
+                    "FNUMBER": "001"
+                },
+                "FQty": "1",
+                "FSBaseQty": "1",
+                "FAllAmount": "2.20",
+                "FMaterialId": {
+                    "FNUMBER": "1011427"
+                },
+                "FPrice": "2.20",
+                "FTaxRate": "0",
+                "FTaxAmount": "0",
+                "FSettleOrgIds": {
+                    "FNUMBER": "100"
+                },
+                "FAmount": "2.20",
+                "FUnitID": {
+                    "FNUMBER": "001"
+                },
+                "FTaxPrice": "2.20"
+            }
+        ],
+        "FID": 0,
+        "FCustAmount": "10.70",
+        "FPresell_Discount": "0.00",
+        "FFreight": "0.00"
+    },
+    "NeedUpDateFields": [],
+    "Creator": "String"
+}

@@ -1,0 +1,78 @@
+{
+  "Creator": "String",
+  "NeedUpDateFields": [
+  ],
+  "Model": {
+    "FID":0,
+    "FBillNo": "3333333333111",
+    "FBillTypeID": {
+      "FNumber": "XSDD01_SYS"
+    },
+    "FBusinessType": {
+      "FNumber": "NORMAL"
+    },
+    "FDate": "2015-10-22",
+    "FSaleOrgId": {
+      "FNUMBER": "100"
+    },
+    "FCustId": {
+      "FNUMBER": "100001"
+    },
+    "FContactor": "李四",
+    "FTEL": "13892039403",
+    "FAddress": "上海市徐汇区88",
+    "FRemarks": "卖家备注测试",
+    "FHeadDeliveryWay": {
+      "FNUMBER": "1"
+    },
+    "FSVTime": "2015-10-22 10:59:31",
+    "FBillAllAmount": "4000.98",
+    "FDiscountAmount": "34.33",
+    "FVoucherAmount": "76.8",
+    "FVoucherID": "uuu888",
+    "FFreight": "18.33",
+    "FGift": "66889ddd",
+    "FPresell_Discount": "65.44",
+    "FCustAmount": "3600.45",
+    "FTotalQty": "15",
+    "FSalerId": {
+      "FNUMBER": "46"
+    },
+    "SAL_SaleOrder__FSaleOrderFinance": {
+      "FSettleCurrId": {
+        "FNUMBER": "PRE001"
+      },
+      "FExchangeTypeId": {
+        "FNumber": "HLTX01_SYS"
+      },
+      "FExchangeRate": 1,
+      "FRecConditionId": {
+        "FNUMBER": "2"
+      }
+    },
+    "SAL_SaleOrder__FSaleOrderEntry": [
+      {
+        "FMaterialId": {
+          "FNumber": "1010040"
+        },
+        "FSettleOrgIds": {
+          "FNumber": "100"
+        },
+        "FBaseUnitId": {
+          "FNumber": "001"
+        },
+        "FSBaseQty": "6",
+        "FUnitID": {
+          "FNumber": "001"
+        },
+        "FSQty": "6",
+        "FTaxPrice": "1170",
+        "FEntryTaxRate": "17",
+        "FPrice": "1000",
+        "FAllAmount": "11700",
+        "FEntryTaxAmount": "1700",
+        "FAmount": "10000"
+      }
+    ]
+  }
+}

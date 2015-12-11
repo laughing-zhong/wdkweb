@@ -1,0 +1,99 @@
+{
+    "Model": {
+        "FRemarks": "",
+        "FDiscountAmount": "0.00",
+        "FTEL": "13611644390",
+        "FGift": "",
+        "FVoucherAmount": "0",
+        "FAddress": "鲜店泗泾地铁站自提点泗宝路18号（时代纯K量贩式KTV旁）",
+        "FBillNo": "154900211524_12345567",
+        "FTotalQty": "2",
+        "FCustId": {
+            "FNUMBER": "100000"
+        },
+        "FSalerId": {
+            "FNUMBER": "46"
+        },
+        "FBusinessType": {
+            "FNumber": "NORMAL"
+        },
+        "FSVTime": "2015-12-11 18:30:00",
+        "FVoucherID": "",
+        "FSaleOrgId": {
+            "FNUMBER": "100"
+        },
+        "SAL_SaleOrder__FSaleOrderFinance": {
+            "FRecConditionId": {
+                "FNUMBER": 2
+            },
+            "FSettleCurrId": {
+                "FNUMBER": "PRE001"
+            },
+            "FExchangeRate": 1,
+            "FExchangeTypeId": {
+                "FNUMBER": "HLTX01_SYS"
+            }
+        },
+        "FDate": "2015-12-10 13:32:30",
+        "FBillTypeID": {
+            "FNumber": "XSDD01_SYS"
+        },
+        "FContactor": "陈逸雄",
+        "FBillAllAmount": "16.30",
+        "FHeadDeliveryWay": {
+            "FNUMBER": "1"
+        },
+        "SAL_SaleOrder__FSaleOrderEntry": [
+            {
+                "FBaseUnitId": {
+                    "FNUMBER": "001"
+                },
+                "FQty": "1",
+                "FSBaseQty": "1",
+                "FAllAmount": "12.80",
+                "FMaterialId": {
+                    "FNUMBER": "1011195"
+                },
+                "FPrice": "12.80",
+                "FTaxRate": "0",
+                "FTaxAmount": "0",
+                "FSettleOrgIds": {
+                    "FNUMBER": "100"
+                },
+                "FAmount": "12.80",
+                "FUnitID": {
+                    "FNUMBER": "001"
+                },
+                "FTaxPrice": "12.80"
+            },
+            {
+                "FBaseUnitId": {
+                    "FNUMBER": "001"
+                },
+                "FQty": "1",
+                "FSBaseQty": "1",
+                "FAllAmount": "3.50",
+                "FMaterialId": {
+                    "FNUMBER":	"10111101"
+                },
+                "FPrice": "3.50",
+                "FTaxRate": "0",
+                "FTaxAmount": "0",
+                "FSettleOrgIds": {
+                    "FNUMBER": "100"
+                },
+                "FAmount": "3.50",
+                "FUnitID": {
+                    "FNUMBER": "001"
+                },
+                "FTaxPrice": "3.50"
+            }
+        ],
+        "FID": 0,
+        "FCustAmount": "16.30",
+        "FPresell_Discount": "0.00",
+        "FFreight": "0.00"
+    },
+    "NeedUpDateFields": [],
+    "Creator": "String"
+}
